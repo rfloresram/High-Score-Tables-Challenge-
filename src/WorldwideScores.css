@@ -1,0 +1,14 @@
+section {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: "wrap";
+}
+.heading {
+  width: 70%;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0px auto;
+}
